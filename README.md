@@ -44,7 +44,9 @@ print(max_sum)  # Output should be 28
 - The input grid will always be a valid 6x6 grid with values in the range [-9, 9].
 
 
-# Proble 2
+------------------------------------------
+
+# Problem 2
 Certainly! Here's a blueprint for a question where the coder is asked to create classes based on the given specifications:
 
 **Problem: Student Grade Calculation**
@@ -88,3 +90,4 @@ Your task is to implement the `Person` and `Student` classes according to the gi
 Please complete the classes and methods as described above. You can use this blueprint to implement the classes and solve the problem.
 
 # Problem 3 ( coming Soon )
+
