@@ -47,8 +47,6 @@ print(max_sum)  # Output should be 28
 ------------------------------------------
 
 # Problem 2
-Certainly! Here's a blueprint for a question where the coder is asked to create classes based on the given specifications:
-
 **Problem: Student Grade Calculation**
 
 You are tasked with designing two classes, `Person` and `Student`, to manage student information and calculate grades based on test scores. Below are the requirements for each class:
