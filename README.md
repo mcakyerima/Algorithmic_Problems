@@ -48,7 +48,6 @@ print(max_sum)  # Output should be 28
 
 # Problem 2
 **Problem: Student Grade Calculation**
-
 You are tasked with designing two classes, `Person` and `Student`, to manage student information and calculate grades based on test scores. Below are the requirements for each class:
 
 **Class: Person**
