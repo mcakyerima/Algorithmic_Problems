@@ -1,4 +1,3 @@
-```markdown
 # Problem 1:
 **Problem: Maximum Hourglass Sum**
 
