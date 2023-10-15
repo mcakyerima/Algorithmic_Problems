@@ -1,4 +1,5 @@
-# problem 1:
+```markdown
+# Problem 1:
 **Problem: Maximum Hourglass Sum**
 
 You are given a 2D array representing a 6x6 grid. An hourglass in the grid is defined as a subset of values with indices falling in the following pattern:
@@ -43,9 +44,6 @@ print(max_sum)  # Output should be 28
 
 - The input grid will always be a valid 6x6 grid with values in the range [-9, 9].
 
-
-------------------------------------------
-
 # Problem 2
 **Problem: Student Grade Calculation**
 You are tasked with designing two classes, `Person` and `Student`, to manage student information and calculate grades based on test scores. Below are the requirements for each class:
@@ -86,5 +84,44 @@ Your task is to implement the `Person` and `Student` classes according to the gi
 
 Please complete the classes and methods as described above. You can use this blueprint to implement the classes and solve the problem.
 
-# Problem 3 ( coming Soon )
+# Problem 3
+**Problem: Convert 12-Hour Time to 24-Hour Time Format**
 
+Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
+
+**Note:**
+- 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock.
+- 12:00:00PM on a 12-hour clock is 12:00:00 on a 24-hour clock.
+
+**Example:**
+Return '12:01:00'.
+Return '00:01:00'.
+
+**Function Description**
+
+Complete the timeConversion function. It should return a new string representing the input time in 24-hour format.
+
+**timeConversion has the following parameter(s):**
+
+- string s: a time in 12-hour format
+
+**Returns:**
+
+- string: the time in 24-hour format
+
+**Input Format:**
+
+A single string that represents a time in 12-hour clock format (i.e., "hh:mm:ssAM" or "hh:mm:ssPM").
+
+**Constraints:**
+
+- All input times are valid
+
+**Sample Input 0:**
+
+07:05:45PM
+
+**Sample Output 0:**
+
+19:05:45
+```
